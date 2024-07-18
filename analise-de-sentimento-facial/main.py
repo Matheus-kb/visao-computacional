@@ -69,3 +69,5 @@ while True:
 # Liberar a câmera e destruir todas as janelas
 cap.release()
 cv2.destroyAllWindows()
+
+# "-" 
